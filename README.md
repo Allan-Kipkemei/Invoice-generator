@@ -1,31 +1,29 @@
-# React Invoice Generator
+# 🧾 React Invoice Generator - Navigation Guide
 
-React Invoice Generator allows you quickly make invoices and save them as PDF. [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
+## 🔗 Live Tool (User Mode)
 
-![react-invoice-generator](https://raw.githubusercontent.com/tuanpham-dev/react-invoice-generator/master/screenshot.png)
+If you just want to **generate invoices and save as PDF**, follow these steps:
 
-## Available Scripts
+1. Visit the app:  
+   👉 [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
 
-In the project directory, you can run:
+2. On the website:
+   - Fill in your **Company Info**
+   - Enter **Client Info**
+   - Add **Invoice Items** (description, quantity, price)
+   - The tool will automatically calculate totals
 
-### `yarn start`
+3. Click **"Download PDF"** to export your invoice.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+> ✅ No installation or coding required.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+---
 
-### `yarn lint` (`lint:write`)
+## 👨‍💻 Developer Mode (Local Setup)
 
-Launches Prettier, an opinionated code formatter.
+To run and customize the app locally:
 
-https://prettier.io/
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+### 1. Clone the Repository
+```bash
+git clone https://github.com/tuanpham-dev/react-invoice-generator.git
+cd react-invoice-generator
