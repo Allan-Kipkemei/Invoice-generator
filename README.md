@@ -4,10 +4,9 @@
 
 If you just want to **generate invoices and save as PDF**, follow these steps:
 
-1. Visit the app:  
-   👉 [https://tuanpham-dev.github.io/react-invoice-generator/](https://tuanpham-dev.github.io/react-invoice-generator/)
 
-2. On the website:
+
+1. On the website:
    - Fill in your **Company Info**
    - Enter **Client Info**
    - Add **Invoice Items** (description, quantity, price)
